@@ -1,5 +1,8 @@
 ### It's good to be here, anyways
-(i have an ARG, btw. **IT HAS STARTED.**)
+## this website doesn't have a site yet. probably it will much, much later.
+
+i have an ARG, btw. **IT HAS STARTED.**
+(update in 2025: you have been fooled by the arg message. but only for now...)
 
 <!--
 **TROLLBOX-USER/trollbox-user** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
